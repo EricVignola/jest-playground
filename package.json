@@ -1,0 +1,22 @@
+{
+  "name": "jest-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricVignola/jest-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricVignola/jest-playground/issues"
+  },
+  "homepage": "https://github.com/EricVignola/jest-playground#readme",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
